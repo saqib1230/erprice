@@ -1,0 +1,18 @@
+[05-Feb-2023 12:59:49 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 5.6.40. in /home/cyberiandesign/erp.cyberiandesign.com/vendor/composer/platform_check.php on line 25
+[05-Feb-2023 12:59:58 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 5.6.40. in /home/cyberiandesign/erp.cyberiandesign.com/vendor/composer/platform_check.php on line 25
+[05-Feb-2023 18:01:31 UTC] PHP Warning:  require_once(/home/cyberiandesign/erp.cyberiandesign.com/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/cyberiandesign/erp.cyberiandesign.com/index.php on line 47
+[05-Feb-2023 18:01:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cyberiandesign/erp.cyberiandesign.com/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cyberiandesign/erp.cyberiandesign.com/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/cyberiandesign/erp.cyberiandesign.com/index.php on line 47
+[05-Feb-2023 18:01:34 UTC] PHP Warning:  require_once(/home/cyberiandesign/erp.cyberiandesign.com/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/cyberiandesign/erp.cyberiandesign.com/index.php on line 47
+[05-Feb-2023 18:01:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cyberiandesign/erp.cyberiandesign.com/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cyberiandesign/erp.cyberiandesign.com/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/cyberiandesign/erp.cyberiandesign.com/index.php on line 47
+[05-Feb-2023 18:01:37 UTC] PHP Warning:  require_once(/home/cyberiandesign/erp.cyberiandesign.com/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/cyberiandesign/erp.cyberiandesign.com/index.php on line 47
+[05-Feb-2023 18:01:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cyberiandesign/erp.cyberiandesign.com/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cyberiandesign/erp.cyberiandesign.com/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/cyberiandesign/erp.cyberiandesign.com/index.php on line 47
+[27-Feb-2023 19:07:05 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\ProformaController, because the name is already in use in /home/cyberiandesign/erp.cyberiandesign.com/app/Http/Controllers/ContactController.php on line 7
